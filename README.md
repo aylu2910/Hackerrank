@@ -29,9 +29,11 @@ Input Format
 Constraints
   All input times are valid
   
-```Sample Input 0
+```
+Sample Input 0
 07:05:45PM
 ```
-```Sample Output 0
+```
+Sample Output 0
 19:05:45
 ```
